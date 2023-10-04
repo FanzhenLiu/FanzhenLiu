@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently working on graph mining theories and applications!
 
 <!--
 **FanzhenLiu/FanzhenLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
